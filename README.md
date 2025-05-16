@@ -1,1 +1,1 @@
-# cs145-fa19
+# CTD Machine Learning Course - Summer 2025
